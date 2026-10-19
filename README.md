@@ -4,8 +4,8 @@ Full-stack software engineer from Morocco, studying at **1337 Coding School (42 
 I like building things people actually use: real-time apps, browser tools and small games.
 
 ### Now
-- **Software engineering intern at Laedx Digital Studio** (Marrakech): real-time video meetings with live
-  translation, a team project-management platform and an AI hiring platform. React, TypeScript, Django,
+- **Software engineer at Laedx Digital Studio** (Marrakech), where I started as an intern: real-time video
+  meetings with live translation, a team project-management platform and an AI hiring platform. React, TypeScript, Django,
   WebRTC, Redis, Docker.
 - **Open source:** [pixijs/pixijs#12296](https://github.com/pixijs/pixijs/pull/12296) fixes unbounded memory
   growth in PixiJS's canvas renderer by replacing its tint cache with an LRU cache.
